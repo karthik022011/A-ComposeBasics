@@ -23,3 +23,4 @@ rootProject.name = "A-ComposeBasics"
 include(":app")
 include(":navigation-compose")
 include(":bottom-navigation")
+include(":list")
