@@ -10,6 +10,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/basic-views" />
+            <option value="$PROJECT_DIR$/bottom-navigation" />
+            <option value="$PROJECT_DIR$/dialogs" />
+            <option value="$PROJECT_DIR$/list" />
             <option value="$PROJECT_DIR$/navigation-compose" />
           </set>
         </option>
